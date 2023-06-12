@@ -1,0 +1,2 @@
+# For_Dongusu_ile_Uslu_Sayi_Hesaplayan_Program
+For_Dongusu_ile_Uslu_Sayi_Hesaplayan_Program
